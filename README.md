@@ -80,7 +80,7 @@ The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TS
 
 # Architecture
 
-![figeow2]<img src="./figeow2.png">
+<img src="./figeow2.png">
 
 
 # Evaluation
@@ -105,13 +105,13 @@ We utilize **enrollment augmentation methods using LLM-based TTS** **to** **expl
 
 ***OVRL scores on five scenarios: Original EoW-TSE* *vs. TTS-augmented (CR).***
 
-![fig](D:\桌面\fczgsrjmgzwfjnmchhssxpcsrnfyxpmc\fig.png)
+<img src="./fig.png">
 
 
 
 ***WERs on five scenarios: Original EoW-TSE vs. TTS augmented (CR).***
 
-![fig1](D:\桌面\fczgsrjmgzwfjnmchhssxpcsrnfyxpmc\fig1.png)
+<img src="./fig1.png">
 
 
 
