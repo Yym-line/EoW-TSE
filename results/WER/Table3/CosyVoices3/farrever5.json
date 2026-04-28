@@ -1,0 +1,1358 @@
+[
+  {
+    "session_id": "1",
+    "speaker": "1",
+    "utt_id": "1",
+    "words": "还 有 潘 多 拉"
+  },
+  {
+    "session_id": "2",
+    "speaker": "2",
+    "utt_id": "2",
+    "words": "他 要 跑 到 啊"
+  },
+  {
+    "session_id": "3",
+    "speaker": "3",
+    "utt_id": "3",
+    "words": "爱 潘 多 拉 嗨 嗨"
+  },
+  {
+    "session_id": "4",
+    "speaker": "4",
+    "utt_id": "4",
+    "words": "害 害 怕 多 了 害 怕"
+  },
+  {
+    "session_id": "5",
+    "speaker": "5",
+    "utt_id": "5",
+    "words": "害 怕 多 啦 害 怕"
+  },
+  {
+    "session_id": "6",
+    "speaker": "6",
+    "utt_id": "6",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "7",
+    "speaker": "7",
+    "utt_id": "7",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "8",
+    "speaker": "8",
+    "utt_id": "8",
+    "words": "嗨 潘 多 拉 嗨"
+  },
+  {
+    "session_id": "9",
+    "speaker": "9",
+    "utt_id": "9",
+    "words": "潘 多 拉 潘 多 拉"
+  },
+  {
+    "session_id": "10",
+    "speaker": "10",
+    "utt_id": "10",
+    "words": "hi hi 潘 多 拉"
+  },
+  {
+    "session_id": "11",
+    "speaker": "11",
+    "utt_id": "11",
+    "words": "嗨 跑 多 了"
+  },
+  {
+    "session_id": "12",
+    "speaker": "12",
+    "utt_id": "12",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "13",
+    "speaker": "13",
+    "utt_id": "13",
+    "words": "好 看 看 看 多"
+  },
+  {
+    "session_id": "14",
+    "speaker": "14",
+    "utt_id": "14",
+    "words": "害 怕 的"
+  },
+  {
+    "session_id": "15",
+    "speaker": "15",
+    "utt_id": "15",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "16",
+    "speaker": "16",
+    "utt_id": "16",
+    "words": "five 潘 多 拉"
+  },
+  {
+    "session_id": "17",
+    "speaker": "17",
+    "utt_id": "17",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "18",
+    "speaker": "18",
+    "utt_id": "18",
+    "words": "嘿 潘 多 拉 嘿 潘 多 拉"
+  },
+  {
+    "session_id": "19",
+    "speaker": "19",
+    "utt_id": "19",
+    "words": "嗨 朋 友 啊 嗨 朋 友 啊"
+  },
+  {
+    "session_id": "20",
+    "speaker": "20",
+    "utt_id": "20",
+    "words": "海 滩 多 吗 海 滩 多 吗"
+  },
+  {
+    "session_id": "21",
+    "speaker": "21",
+    "utt_id": "21",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "22",
+    "speaker": "22",
+    "utt_id": "22",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "23",
+    "speaker": "23",
+    "utt_id": "23",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "24",
+    "speaker": "24",
+    "utt_id": "24",
+    "words": "系 潘 哥 吗 系 潘 哥"
+  },
+  {
+    "session_id": "25",
+    "speaker": "25",
+    "utt_id": "25",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "26",
+    "speaker": "26",
+    "utt_id": "26",
+    "words": "哎 成 功 了"
+  },
+  {
+    "session_id": "27",
+    "speaker": "27",
+    "utt_id": "27",
+    "words": "哦 哈 哈"
+  },
+  {
+    "session_id": "28",
+    "speaker": "28",
+    "utt_id": "28",
+    "words": "还 有 潘 多 拉"
+  },
+  {
+    "session_id": "29",
+    "speaker": "29",
+    "utt_id": "29",
+    "words": "拍 拍 手 啊 拍 拍 手"
+  },
+  {
+    "session_id": "30",
+    "speaker": "30",
+    "utt_id": "30",
+    "words": "还 有 判 断 啊 还 有 判 断 啊"
+  },
+  {
+    "session_id": "31",
+    "speaker": "31",
+    "utt_id": "31",
+    "words": "还 有 潘 多 拉 还 有 潘 多 拉"
+  },
+  {
+    "session_id": "32",
+    "speaker": "32",
+    "utt_id": "32",
+    "words": "开 潘 多 拉 开 潘 多 拉"
+  },
+  {
+    "session_id": "33",
+    "speaker": "33",
+    "utt_id": "33",
+    "words": "嗨 潘 多 拉 嗨"
+  },
+  {
+    "session_id": "34",
+    "speaker": "34",
+    "utt_id": "34",
+    "words": "嗨 潘 若 拉 嗨 潘 若 拉"
+  },
+  {
+    "session_id": "35",
+    "speaker": "35",
+    "utt_id": "35",
+    "words": "海 畔 多"
+  },
+  {
+    "session_id": "36",
+    "speaker": "36",
+    "utt_id": "36",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "37",
+    "speaker": "37",
+    "utt_id": "37",
+    "words": "嗨 埃 多 拉"
+  },
+  {
+    "session_id": "38",
+    "speaker": "38",
+    "utt_id": "38",
+    "words": "啊 嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "39",
+    "speaker": "39",
+    "utt_id": "39",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "40",
+    "speaker": "40",
+    "utt_id": "40",
+    "words": "裁 判 这 个"
+  },
+  {
+    "session_id": "41",
+    "speaker": "41",
+    "utt_id": "41",
+    "words": "菜 潘 多 拉 菜 潘 多 拉"
+  },
+  {
+    "session_id": "42",
+    "speaker": "42",
+    "utt_id": "42",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "43",
+    "speaker": "43",
+    "utt_id": "43",
+    "words": "唉 潘 多 拉"
+  },
+  {
+    "session_id": "44",
+    "speaker": "44",
+    "utt_id": "44",
+    "words": "还 有 他 说"
+  },
+  {
+    "session_id": "45",
+    "speaker": "45",
+    "utt_id": "45",
+    "words": "看 也 看 到 了"
+  },
+  {
+    "session_id": "46",
+    "speaker": "46",
+    "utt_id": "46",
+    "words": "ha ha ha do the ha ha"
+  },
+  {
+    "session_id": "47",
+    "speaker": "47",
+    "utt_id": "47",
+    "words": "拍 盘 走 了"
+  },
+  {
+    "session_id": "48",
+    "speaker": "48",
+    "utt_id": "48",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "49",
+    "speaker": "49",
+    "utt_id": "49",
+    "words": "欢 迎 潘 多 拉"
+  },
+  {
+    "session_id": "50",
+    "speaker": "50",
+    "utt_id": "50",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "51",
+    "speaker": "51",
+    "utt_id": "51",
+    "words": "他 也 看 多 了"
+  },
+  {
+    "session_id": "52",
+    "speaker": "52",
+    "utt_id": "52",
+    "words": "害 怕 多 啦 害 怕 多 啦"
+  },
+  {
+    "session_id": "53",
+    "speaker": "53",
+    "utt_id": "53",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "54",
+    "speaker": "54",
+    "utt_id": "54",
+    "words": "哎 潘 哥"
+  },
+  {
+    "session_id": "55",
+    "speaker": "55",
+    "utt_id": "55",
+    "words": "唉 般 若 拉 唉 般 若"
+  },
+  {
+    "session_id": "56",
+    "speaker": "56",
+    "utt_id": "56",
+    "words": "还 有 潘 多 拉 还 有 潘 多 拉"
+  },
+  {
+    "session_id": "57",
+    "speaker": "57",
+    "utt_id": "57",
+    "words": "闪 喷 都 拉 还 喷"
+  },
+  {
+    "session_id": "58",
+    "speaker": "58",
+    "utt_id": "58",
+    "words": "然 后 和 然 后"
+  },
+  {
+    "session_id": "59",
+    "speaker": "59",
+    "utt_id": "59",
+    "words": "还 还 多 大 还 还 多 大"
+  },
+  {
+    "session_id": "60",
+    "speaker": "60",
+    "utt_id": "60",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "61",
+    "speaker": "61",
+    "utt_id": "61",
+    "words": "fil"
+  },
+  {
+    "session_id": "62",
+    "speaker": "62",
+    "utt_id": "62",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "63",
+    "speaker": "63",
+    "utt_id": "63",
+    "words": "太 看 多 了"
+  },
+  {
+    "session_id": "64",
+    "speaker": "64",
+    "utt_id": "64",
+    "words": "嗨 看 到 了 我 们 在 星 期 一 欢 欢 乐 了"
+  },
+  {
+    "session_id": "65",
+    "speaker": "65",
+    "utt_id": "65",
+    "words": "嗨 哈 格 拉"
+  },
+  {
+    "session_id": "66",
+    "speaker": "66",
+    "utt_id": "66",
+    "words": "害 怕 罗 拉 我 啊 害 怕"
+  },
+  {
+    "session_id": "67",
+    "speaker": "67",
+    "utt_id": "67",
+    "words": "唉 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "68",
+    "speaker": "68",
+    "utt_id": "68",
+    "words": "还 有 潘 周 聃 还 有 潘 周 聃"
+  },
+  {
+    "session_id": "69",
+    "speaker": "69",
+    "utt_id": "69",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "70",
+    "speaker": "70",
+    "utt_id": "70",
+    "words": "嗨 潘 多 拉 嗨 潘 多"
+  },
+  {
+    "session_id": "71",
+    "speaker": "71",
+    "utt_id": "71",
+    "words": "太 恐 怖 了"
+  },
+  {
+    "session_id": "72",
+    "speaker": "72",
+    "utt_id": "72",
+    "words": "high"
+  },
+  {
+    "session_id": "73",
+    "speaker": "73",
+    "utt_id": "73",
+    "words": "嗨"
+  },
+  {
+    "session_id": "74",
+    "speaker": "74",
+    "utt_id": "74",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "75",
+    "speaker": "75",
+    "utt_id": "75",
+    "words": "嗯 还 有 个"
+  },
+  {
+    "session_id": "76",
+    "speaker": "76",
+    "utt_id": "76",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "77",
+    "speaker": "77",
+    "utt_id": "77",
+    "words": "海 滩 多 啦 海 滩 多 啦"
+  },
+  {
+    "session_id": "78",
+    "speaker": "78",
+    "utt_id": "78",
+    "words": "拍 拍 肩 哆 啦 哈"
+  },
+  {
+    "session_id": "79",
+    "speaker": "79",
+    "utt_id": "79",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "80",
+    "speaker": "80",
+    "utt_id": "80",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "81",
+    "speaker": "81",
+    "utt_id": "81",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "82",
+    "speaker": "82",
+    "utt_id": "82",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "83",
+    "speaker": "83",
+    "utt_id": "83",
+    "words": "行"
+  },
+  {
+    "session_id": "84",
+    "speaker": "84",
+    "utt_id": "84",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "85",
+    "speaker": "85",
+    "utt_id": "85",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "86",
+    "speaker": "86",
+    "utt_id": "86",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "87",
+    "speaker": "87",
+    "utt_id": "87",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "88",
+    "speaker": "88",
+    "utt_id": "88",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "89",
+    "speaker": "89",
+    "utt_id": "89",
+    "words": "爱 潘 多 拉 爱 潘 多 拉"
+  },
+  {
+    "session_id": "90",
+    "speaker": "90",
+    "utt_id": "90",
+    "words": "哎 拍 发 哎 拍 发 哎"
+  },
+  {
+    "session_id": "91",
+    "speaker": "91",
+    "utt_id": "91",
+    "words": "嗨 看 作 浪"
+  },
+  {
+    "session_id": "92",
+    "speaker": "92",
+    "utt_id": "92",
+    "words": "按"
+  },
+  {
+    "session_id": "93",
+    "speaker": "93",
+    "utt_id": "93",
+    "words": "嗨 看 到 了 嗨 看 到 了"
+  },
+  {
+    "session_id": "94",
+    "speaker": "94",
+    "utt_id": "94",
+    "words": "嗯 潘 多 拉 嗯 潘 多 拉"
+  },
+  {
+    "session_id": "95",
+    "speaker": "95",
+    "utt_id": "95",
+    "words": "寒 寒 风 寒 寒 风"
+  },
+  {
+    "session_id": "96",
+    "speaker": "96",
+    "utt_id": "96",
+    "words": "哎 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "97",
+    "speaker": "97",
+    "utt_id": "97",
+    "words": "很 high 潘 多 拉 high"
+  },
+  {
+    "session_id": "98",
+    "speaker": "98",
+    "utt_id": "98",
+    "words": "害 怕 不 能 害 怕"
+  },
+  {
+    "session_id": "99",
+    "speaker": "99",
+    "utt_id": "99",
+    "words": "开 喷 的 吗"
+  },
+  {
+    "session_id": "100",
+    "speaker": "100",
+    "utt_id": "100",
+    "words": "碳 酸 二 潘 多 拉"
+  },
+  {
+    "session_id": "101",
+    "speaker": "101",
+    "utt_id": "101",
+    "words": "菜 开 什 么"
+  },
+  {
+    "session_id": "102",
+    "speaker": "102",
+    "utt_id": "102",
+    "words": "嗨 hello 啊 嗨 hello 啊"
+  },
+  {
+    "session_id": "103",
+    "speaker": "103",
+    "utt_id": "103",
+    "words": "嗨 潘 多 拉 嗨 潘 多"
+  },
+  {
+    "session_id": "104",
+    "speaker": "104",
+    "utt_id": "104",
+    "words": "哎 贪 官 啦 哎 贪 官"
+  },
+  {
+    "session_id": "105",
+    "speaker": "105",
+    "utt_id": "105",
+    "words": "是 啊 是 啊 是 啊"
+  },
+  {
+    "session_id": "106",
+    "speaker": "106",
+    "utt_id": "106",
+    "words": "嗨 帅 哥 嗨 开 门 啊"
+  },
+  {
+    "session_id": "107",
+    "speaker": "107",
+    "utt_id": "107",
+    "words": "嗨 hello"
+  },
+  {
+    "session_id": "108",
+    "speaker": "108",
+    "utt_id": "108",
+    "words": "嗨 潘 多 拉 嗨 潘"
+  },
+  {
+    "session_id": "109",
+    "speaker": "109",
+    "utt_id": "109",
+    "words": ""
+  },
+  {
+    "session_id": "110",
+    "speaker": "110",
+    "utt_id": "110",
+    "words": "嘿 看 作 鼓 啦"
+  },
+  {
+    "session_id": "111",
+    "speaker": "111",
+    "utt_id": "111",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "112",
+    "speaker": "112",
+    "utt_id": "112",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "113",
+    "speaker": "113",
+    "utt_id": "113",
+    "words": "系 潘 多 拉 系 潘 多 拉"
+  },
+  {
+    "session_id": "114",
+    "speaker": "114",
+    "utt_id": "114",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "115",
+    "speaker": "115",
+    "utt_id": "115",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "116",
+    "speaker": "116",
+    "utt_id": "116",
+    "words": "爱 潘 多 拉"
+  },
+  {
+    "session_id": "117",
+    "speaker": "117",
+    "utt_id": "117",
+    "words": "海 潘 多 拉 海 潘 多 拉"
+  },
+  {
+    "session_id": "118",
+    "speaker": "118",
+    "utt_id": "118",
+    "words": "爱 潘 多 拉 爱 潘 多 拉"
+  },
+  {
+    "session_id": "119",
+    "speaker": "119",
+    "utt_id": "119",
+    "words": "还 有 潘 多 拉"
+  },
+  {
+    "session_id": "120",
+    "speaker": "120",
+    "utt_id": "120",
+    "words": "海 宽 哥 啦 海"
+  },
+  {
+    "session_id": "121",
+    "speaker": "121",
+    "utt_id": "121",
+    "words": "唉 潘 多 拉 唉 潘 多 拉"
+  },
+  {
+    "session_id": "122",
+    "speaker": "122",
+    "utt_id": "122",
+    "words": "南 o a 摊 中 南"
+  },
+  {
+    "session_id": "123",
+    "speaker": "123",
+    "utt_id": "123",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "124",
+    "speaker": "124",
+    "utt_id": "124",
+    "words": "系"
+  },
+  {
+    "session_id": "125",
+    "speaker": "125",
+    "utt_id": "125",
+    "words": "阿 尔 潘 多 拉 阿 尔 潘 多 拉"
+  },
+  {
+    "session_id": "126",
+    "speaker": "126",
+    "utt_id": "126",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "127",
+    "speaker": "127",
+    "utt_id": "127",
+    "words": "哎 潘 多 拉"
+  },
+  {
+    "session_id": "128",
+    "speaker": "128",
+    "utt_id": "128",
+    "words": "哎 韩 国 吧 只 有"
+  },
+  {
+    "session_id": "129",
+    "speaker": "129",
+    "utt_id": "129",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "130",
+    "speaker": "130",
+    "utt_id": "130",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "131",
+    "speaker": "131",
+    "utt_id": "131",
+    "words": "一 会 儿 亲 我"
+  },
+  {
+    "session_id": "132",
+    "speaker": "132",
+    "utt_id": "132",
+    "words": "踩 盘 拖 拉 踩 盘 拖 拉 踩 盘 拖"
+  },
+  {
+    "session_id": "133",
+    "speaker": "133",
+    "utt_id": "133",
+    "words": "哈 潘 多 拉 潘 潘 多 拉"
+  },
+  {
+    "session_id": "134",
+    "speaker": "134",
+    "utt_id": "134",
+    "words": "排 班 多 啦"
+  },
+  {
+    "session_id": "135",
+    "speaker": "135",
+    "utt_id": "135",
+    "words": "啊 所 以 文 字 写 出 来 然 后 呢 把 这 做 出 来"
+  },
+  {
+    "session_id": "136",
+    "speaker": "136",
+    "utt_id": "136",
+    "words": "潘 潘 多 拉 潘 潘 多 拉"
+  },
+  {
+    "session_id": "137",
+    "speaker": "137",
+    "utt_id": "137",
+    "words": "嗨 憨 多 哇 啦 嗨 憨 多 啦"
+  },
+  {
+    "session_id": "138",
+    "speaker": "138",
+    "utt_id": "138",
+    "words": "开 潘 多 拉 开 潘 多 拉"
+  },
+  {
+    "session_id": "139",
+    "speaker": "139",
+    "utt_id": "139",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "140",
+    "speaker": "140",
+    "utt_id": "140",
+    "words": "嗨 潘 朵 拉"
+  },
+  {
+    "session_id": "141",
+    "speaker": "141",
+    "utt_id": "141",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "142",
+    "speaker": "142",
+    "utt_id": "142",
+    "words": "还 潘 多 拉"
+  },
+  {
+    "session_id": "143",
+    "speaker": "143",
+    "utt_id": "143",
+    "words": "拍 潘 多 拉"
+  },
+  {
+    "session_id": "144",
+    "speaker": "144",
+    "utt_id": "144",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "145",
+    "speaker": "145",
+    "utt_id": "145",
+    "words": "还 潘 多 拉"
+  },
+  {
+    "session_id": "146",
+    "speaker": "146",
+    "utt_id": "146",
+    "words": "拍 潘 多 拉 拍 潘 多 拉"
+  },
+  {
+    "session_id": "147",
+    "speaker": "147",
+    "utt_id": "147",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "148",
+    "speaker": "148",
+    "utt_id": "148",
+    "words": "太 快 乐 了 太"
+  },
+  {
+    "session_id": "149",
+    "speaker": "149",
+    "utt_id": "149",
+    "words": "哎 潘 多 拉"
+  },
+  {
+    "session_id": "150",
+    "speaker": "150",
+    "utt_id": "150",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "151",
+    "speaker": "151",
+    "utt_id": "151",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "152",
+    "speaker": "152",
+    "utt_id": "152",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "153",
+    "speaker": "153",
+    "utt_id": "153",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "154",
+    "speaker": "154",
+    "utt_id": "154",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "155",
+    "speaker": "155",
+    "utt_id": "155",
+    "words": "他 也 看 出 来"
+  },
+  {
+    "session_id": "156",
+    "speaker": "156",
+    "utt_id": "156",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "157",
+    "speaker": "157",
+    "utt_id": "157",
+    "words": "哎 宽 和 拉 快"
+  },
+  {
+    "session_id": "158",
+    "speaker": "158",
+    "utt_id": "158",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "159",
+    "speaker": "159",
+    "utt_id": "159",
+    "words": "快 看 够 啦"
+  },
+  {
+    "session_id": "160",
+    "speaker": "160",
+    "utt_id": "160",
+    "words": "泰 潘 多 拉 嗨"
+  },
+  {
+    "session_id": "161",
+    "speaker": "161",
+    "utt_id": "161",
+    "words": "嘿 潘 多 拉 嘿 潘 多 拉"
+  },
+  {
+    "session_id": "162",
+    "speaker": "162",
+    "utt_id": "162",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "163",
+    "speaker": "163",
+    "utt_id": "163",
+    "words": "哒 哈 哈 呼 啦 哈 哈 呼 啦"
+  },
+  {
+    "session_id": "164",
+    "speaker": "164",
+    "utt_id": "164",
+    "words": "嗨 坎 德 拉"
+  },
+  {
+    "session_id": "165",
+    "speaker": "165",
+    "utt_id": "165",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "166",
+    "speaker": "166",
+    "utt_id": "166",
+    "words": "太 多 啦 害 怕 多 啦"
+  },
+  {
+    "session_id": "167",
+    "speaker": "167",
+    "utt_id": "167",
+    "words": "嗨 hello 啊 嗨 hello 啊"
+  },
+  {
+    "session_id": "168",
+    "speaker": "168",
+    "utt_id": "168",
+    "words": "害 怕 你 啦 害 怕 你 啦"
+  },
+  {
+    "session_id": "169",
+    "speaker": "169",
+    "utt_id": "169",
+    "words": "海 潘 多 拉"
+  },
+  {
+    "session_id": "170",
+    "speaker": "170",
+    "utt_id": "170",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "171",
+    "speaker": "171",
+    "utt_id": "171",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "172",
+    "speaker": "172",
+    "utt_id": "172",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "173",
+    "speaker": "173",
+    "utt_id": "173",
+    "words": "唉 潘 多 拉"
+  },
+  {
+    "session_id": "174",
+    "speaker": "174",
+    "utt_id": "174",
+    "words": "在 潘 多 拉"
+  },
+  {
+    "session_id": "175",
+    "speaker": "175",
+    "utt_id": "175",
+    "words": "亥 潘 多 拉 止 亥 潘 多 拉"
+  },
+  {
+    "session_id": "176",
+    "speaker": "176",
+    "utt_id": "176",
+    "words": "害 怕 多 啦 害 怕 多"
+  },
+  {
+    "session_id": "177",
+    "speaker": "177",
+    "utt_id": "177",
+    "words": "太 宽 多 了"
+  },
+  {
+    "session_id": "178",
+    "speaker": "178",
+    "utt_id": "178",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "179",
+    "speaker": "179",
+    "utt_id": "179",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "180",
+    "speaker": "180",
+    "utt_id": "180",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "181",
+    "speaker": "181",
+    "utt_id": "181",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "182",
+    "speaker": "182",
+    "utt_id": "182",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "183",
+    "speaker": "183",
+    "utt_id": "183",
+    "words": "还 潘 多 拉"
+  },
+  {
+    "session_id": "184",
+    "speaker": "184",
+    "utt_id": "184",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "185",
+    "speaker": "185",
+    "utt_id": "185",
+    "words": "还 潘 多 拉"
+  },
+  {
+    "session_id": "186",
+    "speaker": "186",
+    "utt_id": "186",
+    "words": "害 怕 呢 是 吧"
+  },
+  {
+    "session_id": "187",
+    "speaker": "187",
+    "utt_id": "187",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "188",
+    "speaker": "188",
+    "utt_id": "188",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "189",
+    "speaker": "189",
+    "utt_id": "189",
+    "words": "嘿 潘 多 拉"
+  },
+  {
+    "session_id": "190",
+    "speaker": "190",
+    "utt_id": "190",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "191",
+    "speaker": "191",
+    "utt_id": "191",
+    "words": "花 花 多 啦 菜 菜 多 啦"
+  },
+  {
+    "session_id": "192",
+    "speaker": "192",
+    "utt_id": "192",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "193",
+    "speaker": "193",
+    "utt_id": "193",
+    "words": "下 载 v 嗨"
+  },
+  {
+    "session_id": "194",
+    "speaker": "194",
+    "utt_id": "194",
+    "words": "type 潘 多 拉 type"
+  },
+  {
+    "session_id": "195",
+    "speaker": "195",
+    "utt_id": "195",
+    "words": "嗨 潘 多 拉"
+  },
+  {
+    "session_id": "196",
+    "speaker": "196",
+    "utt_id": "196",
+    "words": "还 有 潘 多 拉 还 有"
+  },
+  {
+    "session_id": "197",
+    "speaker": "197",
+    "utt_id": "197",
+    "words": "哎 判 过 了 哎 判 过 了"
+  },
+  {
+    "session_id": "198",
+    "speaker": "198",
+    "utt_id": "198",
+    "words": "太 难 读 了 太 难 读 了 否"
+  },
+  {
+    "session_id": "199",
+    "speaker": "199",
+    "utt_id": "199",
+    "words": "害 怕 多 大 害 怕"
+  },
+  {
+    "session_id": "200",
+    "speaker": "200",
+    "utt_id": "200",
+    "words": "嘿 阿 瓦 罗 拉 嘿"
+  },
+  {
+    "session_id": "201",
+    "speaker": "201",
+    "utt_id": "201",
+    "words": "嘿 潘 多 拉 嘿 潘 多 拉"
+  },
+  {
+    "session_id": "202",
+    "speaker": "202",
+    "utt_id": "202",
+    "words": "还 判 多 了 还 判 多"
+  },
+  {
+    "session_id": "203",
+    "speaker": "203",
+    "utt_id": "203",
+    "words": "我 啊 他 说 他 嗯 他"
+  },
+  {
+    "session_id": "204",
+    "speaker": "204",
+    "utt_id": "204",
+    "words": "嗨 潘 多 拉 嗨 潘 多 拉"
+  },
+  {
+    "session_id": "205",
+    "speaker": "205",
+    "utt_id": "205",
+    "words": "唉 潘 多 拉 唉 潘 多 拉"
+  },
+  {
+    "session_id": "206",
+    "speaker": "206",
+    "utt_id": "206",
+    "words": "嗨 hello 王 嗨 hello 王"
+  },
+  {
+    "session_id": "207",
+    "speaker": "207",
+    "utt_id": "207",
+    "words": "太 看 重 了"
+  },
+  {
+    "session_id": "208",
+    "speaker": "208",
+    "utt_id": "208",
+    "words": "憨 憨 憨 狗 狼 憨 憨 狗 狼"
+  },
+  {
+    "session_id": "209",
+    "speaker": "209",
+    "utt_id": "209",
+    "words": "还 有 判 断 啊 还 有 判 断 啊"
+  },
+  {
+    "session_id": "210",
+    "speaker": "210",
+    "utt_id": "210",
+    "words": "憨 憨 豆 啊 憨 憨 豆 啊"
+  },
+  {
+    "session_id": "211",
+    "speaker": "211",
+    "utt_id": "211",
+    "words": "嗯 潘 多 拉 还 有 潘 多 拉"
+  },
+  {
+    "session_id": "212",
+    "speaker": "212",
+    "utt_id": "212",
+    "words": "哎 完 了 啊 嗨"
+  },
+  {
+    "session_id": "213",
+    "speaker": "213",
+    "utt_id": "213",
+    "words": "海 滩 朵 拉 海 滩"
+  },
+  {
+    "session_id": "214",
+    "speaker": "214",
+    "utt_id": "214",
+    "words": "爱 潘 多 拉 爱 潘 多 拉"
+  },
+  {
+    "session_id": "215",
+    "speaker": "215",
+    "utt_id": "215",
+    "words": "嗨 朋 友 多 啦 嗨 朋 友 多 啦 嗯"
+  },
+  {
+    "session_id": "216",
+    "speaker": "216",
+    "utt_id": "216",
+    "words": "开 韩 朵 拉 开 韩"
+  },
+  {
+    "session_id": "217",
+    "speaker": "217",
+    "utt_id": "217",
+    "words": "嗨 潘 墩 啊 嗨 潘 墩 啊"
+  },
+  {
+    "session_id": "218",
+    "speaker": "218",
+    "utt_id": "218",
+    "words": "还 看 肉 啊 还 看 肉 那"
+  },
+  {
+    "session_id": "219",
+    "speaker": "219",
+    "utt_id": "219",
+    "words": "喂 喂 饿 了 嗨 饭 饿 了"
+  },
+  {
+    "session_id": "220",
+    "speaker": "220",
+    "utt_id": "220",
+    "words": "海 畔 多"
+  },
+  {
+    "session_id": "221",
+    "speaker": "221",
+    "utt_id": "221",
+    "words": "嗯 是 是"
+  },
+  {
+    "session_id": "222",
+    "speaker": "222",
+    "utt_id": "222",
+    "words": "还 有 三 个 哇 还 有 三 个 哇"
+  },
+  {
+    "session_id": "223",
+    "speaker": "223",
+    "utt_id": "223",
+    "words": "害 怕 诺 拉 害 怕 诺 拉"
+  },
+  {
+    "session_id": "224",
+    "speaker": "224",
+    "utt_id": "224",
+    "words": "哎 放 松 啊 哎 放 松 啊"
+  },
+  {
+    "session_id": "225",
+    "speaker": "225",
+    "utt_id": "225",
+    "words": "爱 放 过 啊 爱 放 过 啊"
+  },
+  {
+    "session_id": "226",
+    "speaker": "226",
+    "utt_id": "226",
+    "words": "嗨 潘 多 拉"
+  }
+]
