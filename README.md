@@ -7,8 +7,8 @@
 for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios</em></b>
     </p>
     <p align="center" style="font-size: 1.1em;">
-  📄 <a href="https://anonymous.4open.science/api/repo/Eow-TSE/file/index.html" target="_blank">Paper</a> &nbsp;|&nbsp;
-  🎧 <a href="https://wanghelin1997.github.io/SoloSpeech-Demo/" target="_blank">Audio Samples</a> &nbsp;
+  📄 <a href="" target="_blank">Paper</a> &nbsp;|&nbsp;
+  🎧 <a href="https://anonymous.4open.science/api/repo/Eow-TSE/file/index.html" target="_blank">Audio Samples</a> &nbsp;
 </p>
 </div>
 
