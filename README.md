@@ -3,12 +3,13 @@
   EoW-TSE
     </h1>
     <p>
-    Official PyTorch code for paper <br>
     <b><em>Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction
 for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios</em></b>
     </p>
-    <p>
-    </p>
+    <p align="center" style="font-size: 1.1em;">
+  📄 <a href="https://anonymous.4open.science/api/repo/Eow-TSE/file/index.html" target="_blank">Paper</a> &nbsp;|&nbsp;
+  🎧 <a href="https://wanghelin1997.github.io/SoloSpeech-Demo/" target="_blank">Audio Samples</a> &nbsp;
+</p>
 </div>
 
 
