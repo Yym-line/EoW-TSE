@@ -12,12 +12,17 @@ for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios</em></b>
 </p>
 </div>
 
+# Introduction
+
+We propose Enroll-on-Wakeup (EoW), a novel framework where the wake-word segment, captured naturally during human-machine interaction, is automatically utilized as the enrollment reference. This eliminates the need for pre-collected speech to enable a seamless experience. We perform the first systematic study of EoW-TSE, evaluating advanced discriminative and generative models under real diverse acoustic conditions. Given the short and noisy nature of wake-word segments, we investigate enrollment augmentation using LLM-based TTS.
+
+This paper is submitted to INTERSPEECH 2026. All code will be released at [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/) after the paper is accepted.
 
 # Dataset
 
 We utilize a dataset of real-world recordings across five distinct acoustic scenarios. These scenarios are designed to reflect the complexities of actual human-machine dialogue, varying in terms of speaker distance (*d*), reverberation time (*RT*60), and signal-to-noise ratio (SNR).
 
-The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/audio)
+The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/testset)
 
 <table>
   <thead>
