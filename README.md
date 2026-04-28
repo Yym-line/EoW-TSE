@@ -80,7 +80,7 @@ The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TS
 
 # Architecture
 
-![figeow2](D:\桌面\fczgsrjmgzwfjnmchhssxpcsrnfyxpmc\figeow2.png)
+![figeow2](.\figeow2.png)
 
 
 # Evaluation
