@@ -321,3 +321,5 @@ We release several checkpoints and codes for reproduction and further research:
 All checkpoints can be found at: [Eow-TSE checkpoints](https://github.com/Yym-line/EoW-TSE/tree/main/checkpoints). They are all trained on Libri2Mix(mix_both) dataset.
 
 For detailed training and inference code, please refer to the README file for each model.
+
+Any problems, contact me at [y2379286479@outlook.com](mailto:y2379286479@outlook.com), and a reply will be given promptly.
