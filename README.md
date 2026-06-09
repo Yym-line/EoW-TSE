@@ -7,16 +7,17 @@
 for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios</em></b>
     </p>
     <p align="center" style="font-size: 1.1em;">
-  📄 <a href="" target="_blank">Paper</a> &nbsp;|&nbsp;
-  🎧 <a href="https://anonymous.4open.science/api/repo/Eow-TSE/file/index.html" target="_blank">Audio Samples</a> &nbsp;
+  📄 <a href="https://arxiv.org/pdf/2602.15519" target="_blank">Paper</a> &nbsp;|&nbsp;
+  🎧 <a href="https://anonymous.4open.science/api/repo/Eow-TSE/file/index.html" target="_blank">demos</a> &nbsp;
 </p>
 </div>
+
 
 # Introduction
 
 We propose Enroll-on-Wakeup (EoW), a novel framework where the wake-word segment, captured naturally during human-machine interaction, is automatically utilized as the enrollment reference. This eliminates the need for pre-collected speech to enable a seamless experience. We perform the first systematic study of EoW-TSE, evaluating advanced discriminative and generative models under real diverse acoustic conditions. Given the short and noisy nature of wake-word segments, we investigate enrollment augmentation using LLM-based TTS.
 
-This paper is submitted to INTERSPEECH 2026. All code will be released at [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/) after the paper is accepted.
+This paper is accepted to INTERSPEECH 2026. 
 
 # Dataset
 
@@ -102,22 +103,32 @@ We utilize **enrollment augmentation methods using LLM-based TTS** **to** **expl
 | Models       | SI-SDR | PESQ | STOI | Params | MACs |
 |----------------------------|---------|----------|-------------|-------------|-------------|
 | Mixture | -1.96 | 1.08 | 64.73 | -  | -  |
-| SEF-PNet | 8.18 | 1.55 | 82.67   | 6.08M  | 15.87G |
-| CIE-mDPTNet    | 9.47 | 1.78 | 85.35     | **2.9M** | 12.10G |
-| LExt           | 10.47 | 1.88 | **87.26**   | 3.9M       | **8.63G**  |
+| SEF-PNet | 8.18 | 1.55 | 82.67   | 6.08M  | **15.87G** |
+| CIE-mDPTNet    | 9.47 | 1.78 | 85.35     | **2.9M** | 48.3G ~~12.0G~~ |
+| LExt           | 10.47 | 1.88 | **87.26**   | 3.9M       | 61.0G ~~8.63G~~ |
 | Solospeech           | **11.12** | **1.89** | -           | 590.9M    | -          |
 
+We initially used the **fvcore** package to calculate MACs (the content with strikethrough). However, we later discovered that the fvcore package was underestimating some values, so we switched to **manually calculating** the results **based on the model architecture**. MACs are calculated by default using 1s enrollment and 1s mixture signal inputs.
 
-
-***OVRL scores on five scenarios: Original EoW-TSE* *vs. TTS-augmented (CR).***
-
-<img src="./fig.png">
+Furthermore, **LExt** is a model we reproduced based on the paper's content, and its configuration and code differ somewhat from the original article.
 
 
 
-***WERs on five scenarios: Original EoW-TSE vs. TTS augmented (CR).***
+<figure style="text-align: center; margin: 1.5em auto;">
+  <img src="./fig.png" style="width: 75%; max-width: 600px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    <em>Figure 1: OVRL scores on five scenarios — Original EoW-TSE vs. TTS-augmented (CR).</em>
+  </figcaption>
+</figure>
 
-<img src="./fig1.png">
+
+
+<figure style="text-align: center; margin: 1.5em auto;">
+  <img src="./fig1.png" style="width: 75%; max-width: 600px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    <em>Figure 2: WERs on five scenarios: Original EoW-TSE vs. TTS augmented (CR).</em>
+  </figcaption>
+</figure>
 
 
 
@@ -297,7 +308,7 @@ We utilize **enrollment augmentation methods using LLM-based TTS** **to** **expl
 
 # Checkpoints
 
-We release several checkpoints for reproduction and further research:  
+We release several checkpoints and codes for reproduction and further research:  
 
 - **SEF-PNet**
 
