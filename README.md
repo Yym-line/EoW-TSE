@@ -23,7 +23,7 @@ This paper is accepted to INTERSPEECH 2026.
 
 We utilize a dataset of real-world recordings across five distinct acoustic scenarios. These scenarios are designed to reflect the complexities of actual human-machine dialogue, varying in terms of speaker distance (*d*), reverberation time (*RT*60), and signal-to-noise ratio (SNR).
 
-The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/testset)
+The dataset can be found at: [Eow-TSE testset](https://github.com/Yym-line/EoW-TSE/tree/main/testset)
 
 <table>
   <thead>
@@ -92,9 +92,11 @@ The dataset can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TS
 
 # Evaluation
 
-We test the **WER and DNSMOS** of **discriminative and generative models** (Solospeech, SEF-PNet, LExt and CIE-mDPTNet) in these five scenarios within the EoW framework.
+We test the **WER and DNSMOS** of **discriminative and generative models** ([Solospeech](https://wanghelin1997.github.io/SoloSpeech-Demo/), SEF-PNet, LExt and CIE-mDPTNet) in these five scenarios within the EoW framework.
 
-We utilize **enrollment augmentation methods using LLM-based TTS** **to** **explore the performance upper limit** of these models within the EoW framework.
+All WER results are calculated via the [**Fun-ASR**](https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512) service and the meeteval toolkit to ensure consistent scoring across diverse acoustic and segmentation conditions.
+
+We utilize **enrollment augmentation methods using LLM-based TTS** **to** **explore the performance upper limit** of these models within the EoW framework.  Three SOTA zero-shot generative TTS models are employed: the [**IndexTTS2** ](https://huggingface.co/IndexTeam/IndexTTS-2), [**xTTS**](https://huggingface.co/coqui/XTTS-v2/tree/v2.0.2), and [**CosyVoice3**](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512).
 
 # Results
 
@@ -310,10 +312,12 @@ Furthermore, **LExt** is a model we reproduced based on the paper's content, and
 
 We release several checkpoints and codes for reproduction and further research:  
 
-- **SEF-PNet**
+- [**SEF-PNet**](https://github.com/Yym-line/SEF-PNet-16k)
 
-- **LExt** 
+- [**LExt**](https://github.com/Yym-line/lext)
   
-- **CIE-mDPTNet** 
+- [**CIE-mDPTNet**]( https://github.com/Yym-line/CIE-mDPTNet)
 
-All checkpoints can be found at: [GitHub-Eow-TSE](https://github.com/Yym-line/EoW-TSE/tree/main/checkpoints)
+All checkpoints can be found at: [Eow-TSE checkpoints](https://github.com/Yym-line/EoW-TSE/tree/main/checkpoints). They are all trained on Libri2Mix(mix_both) dataset.
+
+For detailed training and inference code, please refer to the README file for each model.
