@@ -1,0 +1,13 @@
+{
+    "n_srcs": 1,
+    "n_fft": 256,
+    "stride": 128,
+    "n_layers": 4,
+    "lstm_hidden_units": 128,
+    "emb_dim": 64,
+    "emb_ks": 4,
+    "emb_hs": 4,
+    "sample_rate": 16000,
+    "use_memonger": true,
+    "window": "hann"
+}

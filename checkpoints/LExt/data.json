@@ -1,0 +1,15 @@
+{
+    "train": {
+        "mix_scp": "/node/yym/node/LExt/data/train/mix_clean.scp",
+        "ref_scp": "/node/yym/node/LExt/data/train/ref.scp",
+        "aux_scp": "/node/yym/node/LExt/data/train/auxs1.scp",
+        "sample_rate": 16000
+    },
+    "dev": {
+        "mix_scp": "/node/yym/node/LExt/data/dev/mix_clean.scp",
+        "ref_scp": "/node/yym/node/LExt/data/dev/ref.scp",
+        "aux_scp": "/node/yym/node/LExt/data/dev/auxs1.scp",
+        "sample_rate": 16000
+    },
+    "chunk_size": 48000
+}

@@ -1,0 +1,15 @@
+{
+    "train": {
+        "mix_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/train/mix_clean.scp",
+        "ref_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/train/ref.scp",
+        "aux_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/train/auxs1.scp",
+        "sample_rate": 16000
+    },
+    "dev": {
+        "mix_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/dev/mix_clean.scp",
+        "ref_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/dev/ref.scp",
+        "aux_scp": "/node/yym/node/S0_16/SEF-PNet-main/data/dev/auxs1.scp",
+        "sample_rate": 16000
+    },
+    "chunk_size": 64000
+}
