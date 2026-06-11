@@ -106,11 +106,11 @@ We utilize **enrollment augmentation methods using LLM-based TTS** **to** **expl
 |----------------------------|---------|----------|-------------|-------------|-------------|
 | Mixture | -1.96 | 1.08 | 64.73 | -  | -  |
 | SEF-PNet | 8.18 | 1.55 | 82.67   | 6.08M  | **15.87G** |
-| CIE-mDPTNet    | 9.47 | 1.78 | 85.35     | **2.9M** | 48.3G ~~12.0G~~ |
-| LExt           | 10.47 | 1.88 | **87.26**   | 3.9M       | 61.0G ~~8.63G~~ |
+| CIE-mDPTNet    | 9.47 | 1.78 | 85.35     | **2.9M** | 48.3G |
+| LExt           | 10.47 | 1.88 | **87.26**   | 3.9M       | 61.0G |
 | Solospeech           | **11.12** | **1.89** | -           | 590.9M    | -          |
 
-We initially used the **fvcore** package to calculate MACs (the content with strikethrough). However, we later discovered that the fvcore package was underestimating some values, so we switched to **manually calculating** the results **based on the model architecture**. MACs are calculated by default using 1s enrollment and 1s mixture signal inputs.
+MACs are theoretically computed based on **model architecture**. It is calculated by default using 1s enrollment and 1s mixture signal inputs. 
 
 Furthermore, **LExt** is a model we reproduced based on the paper's content, and its configuration and code differ somewhat from the original article.
 
@@ -316,10 +316,16 @@ We release several checkpoints and codes for reproduction and further research:
 
 - [**LExt**](https://github.com/Yym-line/lext)
   
-- [**CIE-mDPTNet**]( https://github.com/Yym-line/CIE-mDPTNet)
+- **CIE-mDPTNet** 
 
-All checkpoints can be found at: [Eow-TSE checkpoints](https://github.com/Yym-line/EoW-TSE/tree/main/checkpoints). They are all trained on Libri2Mix(mix_both) dataset.
+  If necessary, please contact at yangx11@emails.bjut.edu.cn , the **original author** of the article to reproduce the model. The parameter settings based on 16kHz are as follows:
 
-For detailed training and inference code, please refer to the README file for each model.
+  **chunk_len = 3 (s); win_size = 512; fft_len = 512** 
+
+  All other configurations remain consistent with the original author's specifications.
+
+  
+
+All checkpoints can be found at: [Eow-TSE checkpoints](https://github.com/Yym-line/EoW-TSE/tree/main/checkpoints). They are all trained on Libri2Mix(mix_both) dataset. For detailed training and inference code, please refer to the README file for each model.
 
 Any problems, contact me at [y2379286479@outlook.com](mailto:y2379286479@outlook.com), and a reply will be given promptly.
